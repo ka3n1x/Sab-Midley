@@ -30,7 +30,7 @@ Il se pourrait que finalement la technologie à utiliser diffère pour l'applica
 Je chaerche une solution qui nous faciliteras les conditions d'éxécution du projet
 ```
 
-### **Passerelle de paiement** :
+### **Cart Checkout** :
 
 ```
 J'ai pu avoir un retour positif de Kkiapay. L'entreprise m'a fournit la totalité des ressources utiles (plugin, code source de l'API, repository github)
