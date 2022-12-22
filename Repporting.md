@@ -20,7 +20,7 @@ l'application ou le site web
 -Avoir la possibilité d'ajouter des articles à une rubrique 'Mes favoris' par l'utilisateur
 
 NOTE : Il pense commencer à faire un prototype livrable de la maquette qu'en étant certain que c'est un projet sérieux.
-Il voudrait pas commencer sans être certain de sa rémnération, dans le cas où le projet sera avorté ou reporté.
+Il voudrait pas commencer sans être certain de sa rémunération, dans le cas où le projet sera avorté ou reporté.
 ````
 
 ### **Code Review** :
