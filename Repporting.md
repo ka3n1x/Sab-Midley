@@ -5,7 +5,7 @@
 ### **Design** :
 
 ```
-**La personne chargée de faire le design m'a proposé quelques idées de conceptions, notamment** :
+La personne chargée de faire le design m'a proposé quelques idées de conceptions, notamment :
 
 -Reprendre le design de l'entreprise
 -Classer les articles par catégories : (Électroniques, Électroménagers, Décoration, Outils, Accessoires)
@@ -19,6 +19,7 @@ l'application ou le site web
 -Relancer les paniers non payés
 -Avoir la possibilité d'ajouter des articles à une rubrique 'Mes favoris' par l'utilisateur
 
+NOTE : Il pense commencer à faire un prototype livrable de la maquette qu'en étant certain que c'est un projet sérieux. Il voudait pas commencer et ensuite n'aura pas son dû, dans le cas où le projet sera avorté ou reporté.
 ````
 
 ### **Code Review** :
